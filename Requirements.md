@@ -1,6 +1,5 @@
 # Requirements:
-#
-#
+
 
 ##### 1) Download Go Ethereum - Geth package
 * [Installation](https://geth.ethereum.org/downloads/) 
@@ -25,9 +24,7 @@ You can also install using the commands:
 ```
 
 ##### 4) Python packages:
-#
-#
-#
+
 
 ```sh
 pip install w3
